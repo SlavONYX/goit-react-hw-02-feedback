@@ -5,6 +5,7 @@ const FeedbackBtn = ({ feedback, onLeaveFeedback }) => {
     return (
         <button
             className={css.btn}
+            
             type="button"
             data-feedback={feedback}
             onClick={onLeaveFeedback}
