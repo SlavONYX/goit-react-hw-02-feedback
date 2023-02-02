@@ -1,0 +1,24 @@
+.btnList {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    padding: 0;
+    margin: 0;
+  }
+  
+  .btn {
+    padding: 10px;
+    margin-left: 10px;
+    min-width: 80px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.03em;
+    text-align: center;
+    text-transform: capitalize;
+    border-radius: 4px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border: none;
+    cursor: pointer;
+    }
